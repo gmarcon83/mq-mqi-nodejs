@@ -1,3 +1,10 @@
+# You probably shouldn't be using this fork!
+
+This fork is suposed to be exactly the same as the original but with the MQ 
+Redist for linux already included. So no post install script and will work 
+only on linux.
+
+---
 # mq-mqi-nodejs
 This repository demonstrates a way to call IBM MQ from applications
 running in a Node.js environment.
