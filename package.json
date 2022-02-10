@@ -1,6 +1,6 @@
 {
   "name": "@gmarcon83/ibmmq-no-install",
-  "version": "0.9.19",
+  "version": "0.9.20",
   "description": "Bindings to call IBM MQ API with IBM MQ redist for linux already included",
   "main": "./lib/mqi.js",
   "scripts": {
